@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://btnoit38bj7cn"]
+
+[node name="Node2D" type="Node2D" unique_id=1209626107]
+position = Vector2(383, 211)
+metadata/_edit_group_ = true
